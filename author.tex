@@ -1,0 +1,85 @@
+%%%%%%%%%%%%%%%%%%%% author.tex %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% sample root file for your "contribution" to a contributed volume
+%
+% Use this file as a template for your own input.
+%
+%%%%%%%%%%%%%%%% Springer %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% RECOMMENDED %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[graybox]{styles/svmult}
+
+% choose options for [] as required from the list
+% in the Reference Guide
+
+\usepackage[numbers]{natbib}
+\usepackage{mathptmx}       % selects Times Roman as basic font
+\usepackage{helvet}         % selects Helvetica as sans-serif font
+\usepackage{courier}        % selects Courier as typewriter font
+\usepackage{type1cm}        % activate if the above 3 fonts are
+                            % not available on your system
+%
+\usepackage{makeidx}         % allows index generation
+\usepackage{graphicx}        % standard LaTeX graphics tool
+                             % when including figure files
+\usepackage{multicol}        % used for the two-column index
+\usepackage[bottom]{footmisc}% places footnotes at page bottom
+
+% see the list of further useful packages
+\newcommand{\blue}[1]{\textcolor{blue}{#1}} 		% proposed
+\newcommand{\red}[1]{\textcolor{red}{#1}} 			% to be removed
+\newcommand{\green}[1]{\textcolor{green}{#1}} 		% to be discussed?
+\newcommand{\yellow}[1]{\textcolor{yellow}{#1}} 	% ????
+\newcommand{\magenta}[1]{\textcolor{magenta}{#1}} 	% warning - requires
+
+\newcommand{\ie}{\textit{i.e.,}\xspace}                   % i.e.,
+\newcommand{\eg}{\textit{e.g.,}\xspace}                   % e.g.,
+\newcommand{\etal}{\textit{et al.}\xspace}                % et al.
+\newcommand{\facto}{\textit{, the facto,}\xspace}         %, the facto,
+% in the Reference Guide
+
+\makeindex             % used for the subject index
+                       % please use the style svind.ist with
+                       % your makeindex program
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\title*{On the Design of a Flexible Architecture for Virtualized Network Function Platforms}
+% Use \titlerunning{Short Title} for an abbreviated version of
+% your contribution title if the original one is too long
+\author{Vin\'icius F. Garcia, Leonardo C. Marcuzzo, Giovanni V. Souza, Lucas Bondan, J\'eferson C. Nobre, Alberto E. Schaeffer-Filho, Carlos R. P. dos Santos, Lisandro Z. Granville, Elias P. Duarte Jr.}
+% Use \authorrunning{Short Title} for an abbreviated version of
+% your contribution title if the original one is too long
+\institute{Vin\'icius F. Garcia, Leonardo C. Marcuzzo, Carlos R. P. dos Santos \at Federal University of Santa Maria, Santa Maria \email{\{vfulber,lmarcuzzo,csantos\}@inf.ufsm.br}
+\and Giovanni V. Souza, Elias P. Duarte Jr. \at Federal University of Paran\'a, Curitiba \email{\{gvsouza,elias\}@inf.ufpr.br}
+\and Lucas Bondan, Alberto E. Schaeffer-Filho, Lisandro Z. Granville \at Federal University of Rio Grande do Sul, Porto Alegre \email{\{lbondan,alberto,granville\}@inf.ufrgs.br}
+\and J\'eferson C. Nobre \at University of Vale do Rio dos Sinos, Porto Alegre \email{jcnobre@unisinos.br}}
+%
+% Use the package "url.sty" to avoid
+% problems with special characters
+% used in your e-mail or web address
+%
+\maketitle
+
+%\abstract*{
+%\input{sections/00-abstract.tex}
+%}
+
+\abstract{
+\input{sections/00-abstract.tex}
+}
+
+\input{sections/01-introduction.tex}
+\input{sections/02-background.tex}
+\input{sections/03-architecture.tex}
+\input{sections/04-prototype.tex}
+\input{sections/05-evaluation.tex}
+\input{sections/06-conclusion.tex}
+
+\bibliographystyle{spbasic}
+\bibliography{bibliografia.bib}
+
+\end{document}

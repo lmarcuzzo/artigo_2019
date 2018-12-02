@@ -1,0 +1,107 @@
+\begin{thebibliography}{16}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI~\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Bondan et~al(2014)Bondan, d.~Santos, and Granville}]{Bondan-2014}
+Bondan L, d~Santos CRP, Granville LZ (2014) Management requirements for
+  clickos-based network function virtualization. In: 10th International
+  Conference on Network and Service Management (CNSM) and Workshop, pp
+  447--450, \doi{10.1109/CNSM.2014.7014210}
+
+\bibitem[{Bu et~al(2018)Bu, Wang, Huang, and Li}]{Bu-2018}
+Bu C, Wang X, Huang M, Li K (2018) Sdnfv-based dynamic network function
+  deployment: model and mechanism. IEEE Communications Letters 22(1):93--96
+
+\bibitem[{da~Cruz~Marcuzzo et~al(2017)da~Cruz~Marcuzzo, Garcia, Cunha, Corujo,
+  Barraca, Aguiar, Schaeffer-Filho, Granville, and dos Santos}]{Marcuzzo-2018}
+da~Cruz~Marcuzzo L, Garcia VF, Cunha V, Corujo D, Barraca JP, Aguiar RL,
+  Schaeffer-Filho AE, Granville LZ, dos Santos CR (2017) Click-on-osv: A
+  platform for running click-based middleboxes. In: Integrated Network and
+  Service Management (IM), 2017 IFIP/IEEE Symposium on, IEEE, pp 885--886
+
+\bibitem[{Cunha et~al(2018)Cunha, de~Carvalho, Corujo, Barraca, Gomes,
+  Schaeffer-Filho, Santos, Granville, and Aguiar}]{Cunha-2018}
+Cunha VA, de~Carvalho MB, Corujo D, Barraca J, Gomes D, Schaeffer-Filho A,
+  Santos CRP, Granville LZ, Aguiar R (2018) An sfc-enabled approach for
+  processing ssl/tls encrypted traffic in future enterprise networks. In: IEEE
+  Symposium on Computers and Communications ISCC
+
+\bibitem[{ETSI(2012)}]{ETSI-2012}
+ETSI (2012) Network functions virtualisation – an introduction, benefits,
+  enablers, challenges \& call for action.
+  \urlprefix\url{https://portal.etsi.org/NFV/NFV\_White\_Paper.pdf}, acessed in
+  2018-09-13
+
+\bibitem[{Garcia et~al(2018)Garcia, de~Freitas~Gaiardo, da~Cruz~Marcuzzo,
+  Nunes, and dos Santos}]{Garcia-2018}
+Garcia VF, de~Freitas~Gaiardo G, da~Cruz~Marcuzzo L, Nunes RC, dos Santos CRP
+  (2018) Demons: A ddos mitigation nfv solution. In: 2018 IEEE 32nd
+  International Conference on Advanced Information Networking and Applications
+  (AINA), IEEE, pp 769--776
+
+\bibitem[{GS(2014)}]{GS-2014}
+GS E (2014) Network functions virtualisation (nfv); architectural framework.
+  \urlprefix\url{https://www.etsi.org/deliver/etsi\_gs/nfv/001\_099/002/01.01.01\_60/gs\_nf\\v002v010101p.pdf},
+  acessed in 2018-09-13
+
+\bibitem[{Halpern and Pignataro(2015)}]{Joel-2015}
+Halpern JM, Pignataro C (2015) {Service Function Chaining (SFC) Architecture}.
+  RFC 7665, \doi{10.17487/RFC7665},
+  \urlprefix\url{https://rfc-editor.org/rfc/rfc7665.txt}
+
+\bibitem[{Intel(2014)}]{Intel-2014}
+Intel (2014) Data plane development kit. \urlprefix\url{http://dpdk.org},
+  acessed in 2018-09-13
+
+\bibitem[{Jakaria et~al(2016)Jakaria, Yang, Rashidi, Fung, and
+  Rahman}]{Jakaria-2016}
+Jakaria A, Yang W, Rashidi B, Fung C, Rahman MA (2016) Vfence: A defense
+  against distributed denial of service attacks using network function
+  virtualization. In: Computer Software and Applications Conference (COMPSAC),
+  2016 IEEE 40th Annual, IEEE, vol~2, pp 431--436
+
+\bibitem[{Manco et~al(2017)Manco, Lupu, Schmidt, Mendes, Kuenzer, Sati,
+  Yasukata, Raiciu, and Huici}]{Manco-2017}
+Manco F, Lupu C, Schmidt F, Mendes J, Kuenzer S, Sati S, Yasukata K, Raiciu C,
+  Huici F (2017) My vm is lighter (and safer) than your container. In:
+  Proceedings of the 26th Symposium on Operating Systems Principles, ACM, SOSP
+  '17, pp 218--233, \doi{10.1145/3132747.3132763}
+
+\bibitem[{Martins et~al(2014)Martins, Ahmed, Raiciu, Olteanu, Honda, Bifulco,
+  and Huici}]{Martins-2014}
+Martins J, Ahmed M, Raiciu C, Olteanu V, Honda M, Bifulco R, Huici F (2014)
+  Clickos and the art of network function virtualization. In: Proceedings of
+  the 11th USENIX Conference on Networked Systems Design and Implementation,
+  USENIX Association, Berkeley, CA, USA, NSDI'14, pp 459--473
+
+\bibitem[{Quinn et~al(2018)Quinn, Elzur, and Pignataro}]{Quinn-2018}
+Quinn P, Elzur U, Pignataro C (2018) {Network Service Header (NSH)}. RFC 8300,
+  \doi{10.17487/RFC8300},
+  \urlprefix\url{https://rfc-editor.org/rfc/rfc8300.txt}
+
+\bibitem[{Roman et~al(2005)Roman, Keller, Lausen, De~Bruijn, Lara, Stollberg,
+  Polleres, Feier, Bussler, and Fensel}]{Roman-2005}
+Roman D, Keller U, Lausen H, De~Bruijn J, Lara R, Stollberg M, Polleres A,
+  Feier C, Bussler C, Fensel D (2005) Web service modeling ontology. Applied
+  ontology 1(1):77--106
+
+\bibitem[{SWA(2014)}]{SWA-2014}
+SWA EG (2014) Virtual network functions architecture.
+  \urlprefix\url{https://www.etsi.org/deliver/etsi\_gs/NFV-SWA/001\_099/001/01.01.01\_60/gs\_NFV-SWA001v010101p.pdf},
+  acessed in 2018-09-13
+
+\bibitem[{Zhang et~al(2016)Zhang, Liu, Zhang, Shah, Lopreiato, Todeschi,
+  Ramakrishnan, and Wood}]{Zhang-2016}
+Zhang W, Liu G, Zhang W, Shah N, Lopreiato P, Todeschi G, Ramakrishnan K, Wood
+  T (2016) Opennetvm: A platform for high performance network service chains.
+  In: Proceedings of the 2016 Workshop on Hot Topics in Middleboxes and Network
+  Function Virtualization, ACM, New York, NY, USA, HotMIddlebox '16, pp 26--31,
+  \doi{2940147.2940155}
+
+\end{thebibliography}
