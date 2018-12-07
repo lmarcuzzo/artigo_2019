@@ -4,44 +4,44 @@ The top-level auxiliary file: author.aux
 The style file: spbasic.bst
 Database file #1: bibliografia.bib.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 16 entries,
+You've used 17 entries,
             3270 wiz_defined-function locations,
-            785 strings with 8856 characters,
-and the built_in function-call counts, 23277 in all, are:
-= -- 2431
-> -- 730
-< -- 13
-+ -- 301
-- -- 234
-* -- 1770
-:= -- 2776
-add.period$ -- 16
-call.type$ -- 16
-change.case$ -- 178
-chr.to.int$ -- 16
-cite$ -- 16
-duplicate$ -- 2214
-empty$ -- 1732
-format.name$ -- 276
-if$ -- 4868
+            790 strings with 9020 characters,
+and the built_in function-call counts, 23712 in all, are:
+= -- 2471
+> -- 740
+< -- 14
++ -- 305
+- -- 237
+* -- 1797
+:= -- 2848
+add.period$ -- 17
+call.type$ -- 17
+change.case$ -- 185
+chr.to.int$ -- 17
+cite$ -- 17
+duplicate$ -- 2252
+empty$ -- 1768
+format.name$ -- 280
+if$ -- 4955
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 184
-newline$ -- 58
-num.names$ -- 64
-pop$ -- 696
+missing$ -- 190
+newline$ -- 61
+num.names$ -- 68
+pop$ -- 709
 preamble$ -- 1
-purify$ -- 142
+purify$ -- 147
 quote$ -- 0
-skip$ -- 798
+skip$ -- 811
 stack$ -- 0
-substring$ -- 2125
-swap$ -- 1108
+substring$ -- 2148
+swap$ -- 1119
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 144
+type$ -- 153
 warning$ -- 0
-while$ -- 161
+while$ -- 165
 width$ -- 0
-write$ -- 199
+write$ -- 210

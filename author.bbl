@@ -1,4 +1,4 @@
-\begin{thebibliography}{16}
+\begin{thebibliography}{17}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{{#1}}
 \providecommand{\urlprefix}{URL }
@@ -54,6 +54,11 @@ GS E (2014) Network functions virtualisation (nfv); architectural framework.
 Halpern JM, Pignataro C (2015) {Service Function Chaining (SFC) Architecture}.
   RFC 7665, \doi{10.17487/RFC7665},
   \urlprefix\url{https://rfc-editor.org/rfc/rfc7665.txt}
+
+\bibitem[{IFA(2018)}]{IFA-2018}
+IFA E (2018) Vnf descriptor and packaging specification.
+  \urlprefix\url{https://www.etsi.org/deliver/etsi\_gs/NFV-IFA/001\_099/011/02.05.01\_60/gs\_NFV-IFA011v020501p.pdf},
+  acessed in 2018-09-13
 
 \bibitem[{Intel(2014)}]{Intel-2014}
 Intel (2014) Data plane development kit. \urlprefix\url{http://dpdk.org},
