@@ -1,18 +1,18 @@
 # Fdb version 3
-["bibtex author"] 1544266582 "author.aux" "author.bbl" "author" 1544267429
+["bibtex author"] 1544266582 "author.aux" "author.bbl" "author" 1544267531
   "./spbasic.bst" 1544252648 33250 b27924137faccbc3d13ebae5a7538c63 ""
   "author.aux" 1544267429 4709 2536a07d0d1af2186622a672ef5a87bb ""
   "author.bcf" 0 -1 0 ""
   "bibliografia.bib" 1544252648 9666 6e8471ed514172b20b9a83f60f4a3bea ""
   (generated)
-  "author.blg"
   "author.bbl"
-["makeindex author.idx"] 1543727895 "author.idx" "author.ind" "author" 1544267429
+  "author.blg"
+["makeindex author.idx"] 1543727895 "author.idx" "author.ind" "author" 1544267531
   "author.idx" 1544267429 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
   "author.ilg"
   "author.ind"
-["pdflatex"] 1544267429 "author.tex" "author.pdf" "author" 1544267429
+["pdflatex"] 1544267429 "author.tex" "author.pdf" "author" 1544267531
   "/etc/texmf/web2c/texmf.cnf" 1543727410 1101 af7716885e081ab43982cab7b4672c1a ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -102,10 +102,10 @@
   "sections/06-conclusion.tex" 1544267411 5301 1b94d0fa65cc2f72fb7743acb0956348 ""
   "styles/svmult.cls" 1544252648 81406 83350e990a513f868a8e73ba01be0175 ""
   (generated)
-  "author.idx"
-  "author.log"
-  "images/NSH-eps-converted-to.pdf"
-  "author.aux"
-  "author.pdf"
   "images/ExecTime-eps-converted-to.pdf"
+  "author.pdf"
+  "author.log"
+  "author.idx"
   "images/Delay-eps-converted-to.pdf"
+  "author.aux"
+  "images/NSH-eps-converted-to.pdf"
