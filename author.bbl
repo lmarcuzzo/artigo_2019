@@ -1,4 +1,4 @@
-\begin{thebibliography}{17}
+\begin{thebibliography}{19}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{{#1}}
 \providecommand{\urlprefix}{URL }
@@ -17,6 +17,11 @@ Bondan L, d~Santos CRP, Granville LZ (2014) Management requirements for
 \bibitem[{Bu et~al(2018)Bu, Wang, Huang, and Li}]{Bu-2018}
 Bu C, Wang X, Huang M, Li K (2018) Sdnfv-based dynamic network function
   deployment: model and mechanism. IEEE Communications Letters 22(1):93--96
+
+\bibitem[{Cisco(2018)}]{Cisco-2018}
+Cisco (2018) Vector packet processing.
+  \urlprefix\url{https://blogs.cisco.com/tag/vector-packet-processing}, acessed
+  in 2018-09-13
 
 \bibitem[{da~Cruz~Marcuzzo et~al(2017)da~Cruz~Marcuzzo, Garcia, Cunha, Corujo,
   Barraca, Aguiar, Schaeffer-Filho, Granville, and dos Santos}]{Marcuzzo-2018}
@@ -55,11 +60,6 @@ Halpern JM, Pignataro C (2015) {Service Function Chaining (SFC) Architecture}.
   RFC 7665, \doi{10.17487/RFC7665},
   \urlprefix\url{https://rfc-editor.org/rfc/rfc7665.txt}
 
-\bibitem[{IFA(2018)}]{IFA-2018}
-IFA E (2018) Vnf descriptor and packaging specification.
-  \urlprefix\url{https://www.etsi.org/deliver/etsi\_gs/NFV-IFA/001\_099/011/02.05.01\_60/gs\_NFV-IFA011v020501p.pdf},
-  acessed in 2018-09-13
-
 \bibitem[{Intel(2014)}]{Intel-2014}
 Intel (2014) Data plane development kit. \urlprefix\url{http://dpdk.org},
   acessed in 2018-09-13
@@ -70,6 +70,11 @@ Jakaria A, Yang W, Rashidi B, Fung C, Rahman MA (2016) Vfence: A defense
   against distributed denial of service attacks using network function
   virtualization. In: Computer Software and Applications Conference (COMPSAC),
   2016 IEEE 40th Annual, IEEE, vol~2, pp 431--436
+
+\bibitem[{Kohler et~al(2000)Kohler, Morris, Chen, Jannotti, and
+  Kaashoek}]{Kohler-2000}
+Kohler E, Morris R, Chen B, Jannotti J, Kaashoek MF (2000) The click modular
+  router. ACM Trans Comput Syst 18(3):263--297, \doi{10.1145/354871.354874}
 
 \bibitem[{Manco et~al(2017)Manco, Lupu, Schmidt, Mendes, Kuenzer, Sati,
   Yasukata, Raiciu, and Huici}]{Manco-2017}
@@ -89,6 +94,11 @@ Martins J, Ahmed M, Raiciu C, Olteanu V, Honda M, Bifulco R, Huici F (2014)
 Quinn P, Elzur U, Pignataro C (2018) {Network Service Header (NSH)}. RFC 8300,
   \doi{10.17487/RFC8300},
   \urlprefix\url{https://rfc-editor.org/rfc/rfc8300.txt}
+
+\bibitem[{Rizzo(2012)}]{Rizzo-2012}
+Rizzo L (2012) netmap: A novel framework for fast packet i/o. In: 2012 USENIX
+  Annual Technical Conference (USENIX ATC 12), USENIX Association, Boston, MA,
+  pp 101--112
 
 \bibitem[{Roman et~al(2005)Roman, Keller, Lausen, De~Bruijn, Lara, Stollberg,
   Polleres, Feier, Bussler, and Fensel}]{Roman-2005}

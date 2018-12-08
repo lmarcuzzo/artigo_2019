@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.11.28)  7 DEC 2018 16:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2018.12.2)  8 DEC 2018 09:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **author.tex
 (./author.tex
-LaTeX2e <2017/01/01> patch level 3
-Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (./styles/svmult.cls
 
 LaTeX Warning: You have requested document class `styles/svmult',
@@ -102,21 +102,21 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 973.
 LaTeX Info: Redefining \abstract on input line 2320.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: pdftex.def on input line 147.
+Package color Info: Driver file: pdftex.def on input line 137.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count110
 ))
@@ -175,7 +175,7 @@ LaTeX Info: Redefining \hbar on input line 50.
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
 \KV@toks@=\toks18
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/courier.sty
@@ -189,24 +189,24 @@ atched RF)
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 )
 \Gin@req@height=\dimen131
 \Gin@req@width=\dimen132
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
+Package: multicol 2014/10/28 v1.8i multicolumn formatting (FMi)
 \c@tracingmulticols=\count112
 \mult@box=\box29
 \multicol@leftmargin=\dimen133
@@ -273,11 +273,7 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 
 
 Writing index file author.idx
-(./author.aux
-
-LaTeX Warning: Label `FIG:PLATEXEC' multiply defined.
-
-)
+(./author.aux)
 \openout1 = `author.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
@@ -296,7 +292,7 @@ LaTeX Font Info:    Try loading font information for OT1+ptm on input line 48.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count122
 \scratchdimen=\dimen143
@@ -309,16 +305,19 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 \MPnumerator=\count126
 \makeMPintoPDFobject=\count127
 \everyMPtoPDFconversion=\toks21
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+\big@size=\dimen145
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -326,39 +325,36 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
+(grfext)             \AppendGraphicsExtensions on input line 452.
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\big@size=\dimen145
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 65.
 
@@ -431,134 +427,129 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 5.
  [2]
 [3]) (./sections/03-architecture.tex [4]
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ³ in font ptmr7t!
 
-LaTeX Warning: Reference `vnfGeneric' on page 5 undefined on input line 11.
 
+LaTeX Warning: Reference `vnfGeneric' on page 5 undefined on input line 13.
+
+[5]
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
-[5] [6]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 83.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 62.
+ [6]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 66.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-<images/PlatformFlow.png, id=27, 1054.94125pt x 292.09125pt>
+<images/PlatformFlow.png, id=26, 1054.94125pt x 292.09125pt>
 File: images/PlatformFlow.png Graphic file (type png)
 
 <use images/PlatformFlow.png>
-Package pdftex.def Info: images/PlatformFlow.png used on input line 98.
-(pdftex.def)             Requested size: 332.89723pt x 92.16966pt.
- [7 <./images/PlatformFlow.png>] [8]
-File: images/PlatformFlow.png Graphic file (type png)
-
-<use images/PlatformFlow.png>
-Package pdftex.def Info: images/PlatformFlow.png used on input line 197.
-(pdftex.def)             Requested size: 332.89723pt x 92.16966pt.
- [9]) (./sections/05-evaluation.tex
-
-LaTeX Warning: Reference `PROTO' on page 10 undefined on input line 3.
-
-[10] <images/DeMONS.png, id=44, 711.65875pt x 689.57625pt>
+Package pdftex.def Info: images/PlatformFlow.png used on input line 81.
+(pdftex.def)             Requested size: 266.31879pt x 73.73573pt.
+ [7 <./images/PlatformFlow.png>])
+(./sections/05-evaluation.tex [8]
+<images/DeMONS.png, id=38, 711.65875pt x 689.57625pt>
 File: images/DeMONS.png Graphic file (type png)
-
-<use images/DeMONS.png>
+ <use images/DeMONS.png>
 Package pdftex.def Info: images/DeMONS.png used on input line 23.
 (pdftex.def)             Requested size: 266.31879pt x 258.05382pt.
- [11 <./images/DeMONS.png>]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 Package epstopdf Info: Source file: <images/ExecTime.eps>
-(epstopdf)                    date: 2018-12-03 13:33:55
+(epstopdf)                    date: 2018-12-08 05:04:08
 (epstopdf)                    size: 22857 bytes
 (epstopdf)             Output file: <images/ExecTime-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-03 13:33:55
+(epstopdf)                    date: 2018-12-08 05:04:08
 (epstopdf)                    size: 6802 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/ExecTime-eps-conver
 ted-to.pdf images/ExecTime.eps>
 (epstopdf)             \includegraphics on input line 38.
 Package epstopdf Info: Output file is already uptodate.
-
-<images/ExecTime-eps-converted-to.pdf, id=49, 361.35pt x 252.945pt>
+<images/ExecTime-eps-converted-to.pdf, id=39, 361.35pt x 252.945pt>
 File: images/ExecTime-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/ExecTime-eps-converted-to.pdf>
 Package pdftex.def Info: images/ExecTime-eps-converted-to.pdf used on input lin
 e 38.
 (pdftex.def)             Requested size: 266.31879pt x 186.42374pt.
- [12 <./images/ExecTime-eps-converted-to.pdf>]) (./sections/06-conclusion.tex [
-13]) (./author.bbl
+ [9] [10 <./images/DeMONS.png> <./images/ExecTime-eps-converted-to.pdf>]) (./se
+ctions/06-conclusion.tex [11])
+(./author.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 22--25
+[]\OT1/ptm/m/n/10 Cisco (2018) Vec-tor packet pro-cess-ing. URL
+ []
+
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--40
+Underfull \hbox (badness 10000) in paragraph at lines 41--45
 []\OT1/ptm/m/n/10 ETSI (2012) Net-work func-tions vir-tu-al-i-sa-tion  an in-tr
 o-duc-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--40
+Underfull \hbox (badness 10000) in paragraph at lines 41--45
 \OT1/ptm/m/n/10 tion, ben-e-fits, en-ablers, chal-lenges & call for ac-tion. UR
 L
  []
 
 
-Underfull \hbox (badness 5417) in paragraph at lines 54--57
+Underfull \hbox (badness 5417) in paragraph at lines 59--62
 []\OT1/ptm/m/n/10 Halpern JM, Pig-nataro C (2015) Ser-vice Func-tion Chain-ing 
 (SFC)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--57
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
 \OT1/ptm/m/n/10 Ar-chi-tec-ture. RFC 7665, DOI 10.17487/RFC7665, URL https://rf
 c-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--62
-[]\OT1/ptm/m/n/10 IFA E (2018) Vnf de-scrip-tor and pack-ag-ing spec-i-
+[12]
+Underfull \hbox (badness 2293) in paragraph at lines 76--78
+[]\OT1/ptm/m/n/10 Kohler E, Mor-ris R, Chen B, Jan-notti J, Kaashoek MF (2000) 
+The
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--62
-\OT1/ptm/m/n/10 fi-ca-tion. URL https://www.etsi.org/deliver/etsi[]gs/NFV-
+Underfull \hbox (badness 1917) in paragraph at lines 76--78
+\OT1/ptm/m/n/10 click mod-u-lar router. ACM Trans Com-put Syst 18(3):263--297, 
+DOI 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--62
-\OT1/ptm/m/n/10 IFA/001[]099/011/02.05.01[]60/gs[]NFV-IFA011v020501p.pdf, acess
-ed in
- []
-
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 100--103
+Underfull \hbox (badness 10000) in paragraph at lines 110--113
 []\OT1/ptm/m/n/10 SWA EG (2014) Vir-tual net-work func-tions ar-chi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--103
+Underfull \hbox (badness 10000) in paragraph at lines 110--113
 \OT1/ptm/m/n/10 tec-ture. URL https://www.etsi.org/deliver/etsi[]gs/NFV-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--103
+Underfull \hbox (badness 10000) in paragraph at lines 110--113
 \OT1/ptm/m/n/10 SWA/001[]099/001/01.01.01[]60/gs[]NFV-SWA001v010101p.pdf, acess
 ed
  []
 
-) [15] (./author.aux)
+) [13] (./author.aux)
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 3109 strings out of 493013
- 43170 string characters out of 6135681
- 114526 words of memory out of 5000000
- 6562 multiletter control sequences out of 15000+600000
+ 3108 strings out of 493105
+ 43092 string characters out of 6137072
+ 114635 words of memory out of 5000000
+ 6483 multiletter control sequences out of 15000+600000
  36775 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,8n,28p,1363b,267s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,8n,28p,1315b,268s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/
@@ -566,10 +557,10 @@ fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
 rw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8
 a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on author.pdf (15 pages, 164806 bytes).
+Output written on author.pdf (13 pages, 161422 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 87 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
