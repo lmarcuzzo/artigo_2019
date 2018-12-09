@@ -1,4 +1,4 @@
-\begin{thebibliography}{19}
+\begin{thebibliography}{16}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{{#1}}
 \providecommand{\urlprefix}{URL }
@@ -30,13 +30,6 @@ da~Cruz~Marcuzzo L, Garcia VF, Cunha V, Corujo D, Barraca JP, Aguiar RL,
   platform for running click-based middleboxes. In: Integrated Network and
   Service Management (IM), 2017 IFIP/IEEE Symposium on, IEEE, pp 885--886
 
-\bibitem[{Cunha et~al(2018)Cunha, de~Carvalho, Corujo, Barraca, Gomes,
-  Schaeffer-Filho, Santos, Granville, and Aguiar}]{Cunha-2018}
-Cunha VA, de~Carvalho MB, Corujo D, Barraca J, Gomes D, Schaeffer-Filho A,
-  Santos CRP, Granville LZ, Aguiar R (2018) An sfc-enabled approach for
-  processing ssl/tls encrypted traffic in future enterprise networks. In: IEEE
-  Symposium on Computers and Communications ISCC
-
 \bibitem[{ETSI(2012)}]{ETSI-2012}
 ETSI (2012) Network functions virtualisation – an introduction, benefits,
   enablers, challenges \& call for action.
@@ -64,13 +57,6 @@ Halpern JM, Pignataro C (2015) {Service Function Chaining (SFC) Architecture}.
 Intel (2014) Data plane development kit. \urlprefix\url{http://dpdk.org},
   acessed in 2018-09-13
 
-\bibitem[{Jakaria et~al(2016)Jakaria, Yang, Rashidi, Fung, and
-  Rahman}]{Jakaria-2016}
-Jakaria A, Yang W, Rashidi B, Fung C, Rahman MA (2016) Vfence: A defense
-  against distributed denial of service attacks using network function
-  virtualization. In: Computer Software and Applications Conference (COMPSAC),
-  2016 IEEE 40th Annual, IEEE, vol~2, pp 431--436
-
 \bibitem[{Kohler et~al(2000)Kohler, Morris, Chen, Jannotti, and
   Kaashoek}]{Kohler-2000}
 Kohler E, Morris R, Chen B, Jannotti J, Kaashoek MF (2000) The click modular
@@ -94,11 +80,6 @@ Martins J, Ahmed M, Raiciu C, Olteanu V, Honda M, Bifulco R, Huici F (2014)
 Quinn P, Elzur U, Pignataro C (2018) {Network Service Header (NSH)}. RFC 8300,
   \doi{10.17487/RFC8300},
   \urlprefix\url{https://rfc-editor.org/rfc/rfc8300.txt}
-
-\bibitem[{Rizzo(2012)}]{Rizzo-2012}
-Rizzo L (2012) netmap: A novel framework for fast packet i/o. In: 2012 USENIX
-  Annual Technical Conference (USENIX ATC 12), USENIX Association, Boston, MA,
-  pp 101--112
 
 \bibitem[{Roman et~al(2005)Roman, Keller, Lausen, De~Bruijn, Lara, Stollberg,
   Polleres, Feier, Bussler, and Fensel}]{Roman-2005}

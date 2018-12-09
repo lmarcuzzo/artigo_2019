@@ -8,6 +8,12 @@ Currently, there is no \textit{de facto} standard for the design and development
 
 % \red{Talvez tirar o nome dos modulos? Reduzido para ficar mais parecido com módulos do coov, sem IR e extended agents? Figura?}
 
+\begin{figure}[!ht]
+    \centering
+    \includegraphics[width=\textwidth]{images/FullArchitecture_MOD.png}
+    \caption{\label{vnfGeneric} VNF Platform Architecture}
+\end{figure}
+
 In this context, we propose a generic and flexible architecture for VNF platforms, (Figure~\ref{vnfGeneric}). The proposed platform consists of multiple modules, deployed on a host operating system (called here VNF Core): an module responsible for management access of Virtual Network Interfaces (vNIC), being the main point of input/output of packets from the architecture, a module consisting of a framework for development and execution of network functions, a management agent responsible for configuration of the host operating system and the other modules and, finally, a NSH Processor which provides an abstraction for the network functions regarding the existence of NSH packets.
 
 % \blue{Packets I/O when executed by the native network stack in traditional operating systems, is not optimized to support the performance requirements of high-speed networks (\textit{e.g.}, 40GbE/100GbE). To tackle this problem, packet acceleration tools (\textit{e.g.}, Intel DPDK \cite{Intel-2014}, NetMap \cite{Rizzo-2012}) have been proposed and extensively evaluated. Once the network packets enter the VNF, they are forwarded internally through communication channels (\textit{e.g.}, using shared memory, pipes, sockets) to the NSH Processor if the VNF is in a service chain, otherwise being forwarded directly to the Network Functions.}
@@ -76,12 +82,12 @@ Furthermore, we have chosen Debian as the operating system for the VNF Core. Alt
 
 % [ref1]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.671.8671&rep=rep1&type=pdf
 
-\begin{figure*}[ht]
-\centering
-\includegraphics[width=.8\textwidth]{images/PlatformFlow.png}
-\caption{Prototype Platform Execution Scenarios}
-\label{FIG:PLATEXEC}
-\end{figure*}
+%\begin{figure*}[ht]
+%\centering
+%\includegraphics[width=.8\textwidth]{images/PlatformFlow.png}
+%\caption{Prototype Platform Execution Scenarios}
+%\label{FIG:PLATEXEC}
+%\end{figure*}
 
 \subsection{Platform Prototype}
 
@@ -119,7 +125,7 @@ The NSH Processor operates as a proxy during the platform execution and can be e
 
 The Management Agent was developed as a RESTful WS and is able to control (through system calls and CMR's control socket) all the internal components of the platform. For monitoring, Glances\footnote{https://nicolargo.github.io/glances/} was used to recover system-wide statistics, while a custom REST API was developed to meet the management requirements as specified in \cite{Bondan-2014}, such as providing information regarding the VNF (\textit{e.g.}, function description, system state, logs) and supporting the reconfiguration of running functions. These operations can be accessed either directly by network operators (through the integrated EMS) or by external EMS and VNF Managers (by using REST calls to the management interface).
 
-To initiate the platform, the network operator must first provide (through the Management Agent) a VNF Package that contains the network function implementation, its descriptor, and settings to initialize the internal modules properly. These settings are used, for example, to configure the Internal Router with the VNFC chaining order and to enable/disable the NSH Processor. After the initial platform configuration, the NF lifecycle operations (\textit{e.g.}, start, stop, status, and monitoring) become available to the network operator. The platform prototype supports three execution scenarios as depicted in Figure \ref{FIG:PLATEXEC}: NSH packets with NSH unaware NF, NSH packets with NSH aware NF, and packets without NSH.
+To initiate the platform, the network operator must first provide (through the Management Agent) a VNF Package that contains the network function implementation, its descriptor, and settings to initialize the internal modules properly. These settings are used, for example, to configure the Internal Router with the VNFC chaining order and to enable/disable the NSH Processor. After the initial platform configuration, the NF lifecycle operations (\textit{e.g.}, start, stop, status, and monitoring) become available to the network operator. The platform prototype supports three execution scenarios: NSH packets with NSH unaware NF, NSH packets with NSH aware NF, and packets without NSH.
 
 % Finally, the management agent was developed as a RESTful WS, able to both control (through system calls and CMR's control socket) all the internal components of the platform. For monitoring, Glances was used to recover system-wide statistics, while a custom REST API was developed in order to meet the management requirements detailed in \cite{manRequirements}, such as providing information regarding the VNFs (textit{e.g.}, function description, system state, logs) and supporting the reconfiguration of running functions. These operations can be accessed either directly by the network operators (through the integrated EMS) or by external EMS and VNF Managers (by using REST calls to the management interface).
 
