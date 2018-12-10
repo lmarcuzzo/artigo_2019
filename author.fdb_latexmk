@@ -1,18 +1,18 @@
 # Fdb version 3
-["bibtex author"] 1544320806 "author.aux" "author.bbl" "author" 1544320807
+["bibtex author"] 1544409674 "author.aux" "author.bbl" "author" 1544409675
   "./spbasic.bst" 1544252648 33250 b27924137faccbc3d13ebae5a7538c63 ""
-  "author.aux" 1544320807 4275 bff62a39918a2bc686a5f765efa4ef4b ""
+  "author.aux" 1544409675 4101 ad2bd88097642b98c9f7738394b18eb9 ""
   "author.bcf" 0 -1 0 ""
   "bibliografia.bib" 1544252648 9666 6e8471ed514172b20b9a83f60f4a3bea ""
   (generated)
   "author.blg"
   "author.bbl"
-["makeindex author.idx"] 1543727895 "author.idx" "author.ind" "author" 1544320807
-  "author.idx" 1544320806 0 d41d8cd98f00b204e9800998ecf8427e ""
+["makeindex author.idx"] 1543727895 "author.idx" "author.ind" "author" 1544409675
+  "author.idx" 1544409674 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
   "author.ilg"
   "author.ind"
-["pdflatex"] 1544320806 "author.tex" "author.pdf" "author" 1544320807
+["pdflatex"] 1544409674 "author.tex" "author.pdf" "author" 1544409675
   "/etc/texmf/web2c/texmf.cnf" 1543727410 1101 af7716885e081ab43982cab7b4672c1a ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -86,26 +86,26 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1488872290 31080 e10744b84ae6cc364fc80325dc2b62c1 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1543727621 1561293 ee2f233f6325ee204ca709e796fd06a8 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1543727648 3840967 ce58d58cde1f352796c399b3658c2a6a ""
-  "author.aux" 1544320807 4275 bff62a39918a2bc686a5f765efa4ef4b ""
-  "author.bbl" 1544320806 5032 2ccd37b96cad30b0016cb4658dbe00f2 "bibtex author"
+  "author.aux" 1544409675 4101 ad2bd88097642b98c9f7738394b18eb9 ""
+  "author.bbl" 1544409674 4724 42b144890e93f87b0ab6035b74d581ce "bibtex author"
   "author.ind" 1544252648 0 d41d8cd98f00b204e9800998ecf8427e "makeindex author.idx"
-  "author.tex" 1544252648 3620 9d132dab4c0d6f7f9a6665f827d622e3 ""
-  "images/DeMONS.png" 1544252648 39319 fd0c7d73c453fe8ecbabccd44c953114 ""
+  "author.tex" 1544407380 3611 001ffd26abeec2598a736c5e65ba4648 ""
+  "images/DeMONS2.png" 1544406825 39549 d6896c47cd593a6982b71d0f20c5e320 ""
   "images/ExecTime-eps-converted-to.pdf" 1544252648 6802 f604d54f6dd38acefc4733dd75a33264 ""
   "images/ExecTime.eps" 1544252648 22857 5e8a2f1ce6caba56e386cbc42e9c8588 ""
   "images/FullArchitecture_MOD.png" 1544320407 51069 3b35293976d0bb1104d655fc0904ee46 ""
   "sections/00-abstract.tex" 1544267604 923 4ff4bb59e84e8235d2dd5cc90cc8bdae ""
-  "sections/01-introduction.tex" 1544252648 4182 1e121175fc76ebed7bbd6ea8962d1fc5 ""
+  "sections/01-introduction.tex" 1544406825 4175 7fe65c1b2cc6f306e981adf430d0e434 ""
   "sections/02-background.tex" 1544308704 9900 bc5a9fce4844393ea23e49aa7549ef91 ""
-  "sections/03-architecture.tex" 1544320801 26605 2d50f7f664322fcbf97af1dbddf90dc6 ""
-  "sections/05-evaluation.tex" 1544308704 21281 ac721eac253bce57d46b8898aa3aa819 ""
-  "sections/06-conclusion.tex" 1544308704 5293 09dcaa19895db8ede9c8a436aeb2741c ""
+  "sections/03-architecture.tex" 1544409671 26948 88ef5777b859df28bb5a3ac280e665c8 ""
+  "sections/05-evaluation.tex" 1544409280 21248 bc3deb8951c39a58f535fd85686d70e4 ""
+  "sections/06-conclusion.tex" 1544409556 5038 5a401c8a2514b7d8583a6f47cedf4180 ""
   "styles/svmult.cls" 1544252648 81406 83350e990a513f868a8e73ba01be0175 ""
   (generated)
-  "author.pdf"
-  "author.log"
-  "author.aux"
-  "images/NSH-eps-converted-to.pdf"
   "author.idx"
-  "images/ExecTime-eps-converted-to.pdf"
+  "author.pdf"
   "images/Delay-eps-converted-to.pdf"
+  "author.aux"
+  "author.log"
+  "images/ExecTime-eps-converted-to.pdf"
+  "images/NSH-eps-converted-to.pdf"

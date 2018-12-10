@@ -1,4 +1,4 @@
-\begin{thebibliography}{16}
+\begin{thebibliography}{15}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{{#1}}
 \providecommand{\urlprefix}{URL }
@@ -80,12 +80,6 @@ Martins J, Ahmed M, Raiciu C, Olteanu V, Honda M, Bifulco R, Huici F (2014)
 Quinn P, Elzur U, Pignataro C (2018) {Network Service Header (NSH)}. RFC 8300,
   \doi{10.17487/RFC8300},
   \urlprefix\url{https://rfc-editor.org/rfc/rfc8300.txt}
-
-\bibitem[{Roman et~al(2005)Roman, Keller, Lausen, De~Bruijn, Lara, Stollberg,
-  Polleres, Feier, Bussler, and Fensel}]{Roman-2005}
-Roman D, Keller U, Lausen H, De~Bruijn J, Lara R, Stollberg M, Polleres A,
-  Feier C, Bussler C, Fensel D (2005) Web service modeling ontology. Applied
-  ontology 1(1):77--106
 
 \bibitem[{SWA(2014)}]{SWA-2014}
 SWA EG (2014) Virtual network functions architecture.

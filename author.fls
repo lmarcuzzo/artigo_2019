@@ -175,9 +175,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT sections/05-evaluation.tex
 INPUT sections/05-evaluation.tex
-INPUT images/DeMONS.png
-INPUT ./images/DeMONS.png
-INPUT ./images/DeMONS.png
+INPUT images/DeMONS2.png
+INPUT ./images/DeMONS2.png
+INPUT ./images/DeMONS2.png
 INPUT images/ExecTime.eps
 INPUT ./images/ExecTime.eps
 INPUT ./images/ExecTime.eps

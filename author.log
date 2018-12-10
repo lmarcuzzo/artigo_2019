@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2018.12.2)  9 DEC 2018 00:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2018.12.2)  10 DEC 2018 00:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -402,8 +402,8 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8.5> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
 
 Underfull \hbox (badness 10000) in paragraph at lines 65--65
-\OT1/ptm/m/n/8.5 Federal Uni-ver-sity of Rio Grande do Sul, Porto Ale-gre e-mai
-l:
+\OT1/ptm/m/n/8.5 Federal Uni-ver-sity of Rio Grande do Sul, Porto Ale-gre, Braz
+il e-mail:
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
@@ -412,8 +412,6 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 65.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 65.
-Names of authors too long for running head. Please supply
-a shorter form with \authorrunning prior to \maketitle
 (./sections/00-abstract.tex) (./sections/01-introduction.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
@@ -436,21 +434,21 @@ Package pdftex.def Info: images/FullArchitecture_MOD.png used on input line 13.
 (pdftex.def)             Requested size: 332.89723pt x 184.20567pt.
  [5 <./images/FullArchitecture_MOD.png>]
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 69.
 
 [6]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 72.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 73.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) [7])
 (./sections/05-evaluation.tex [8]
-<images/DeMONS.png, id=38, 711.65875pt x 689.57625pt>
-File: images/DeMONS.png Graphic file (type png)
- <use images/DeMONS.png>
-Package pdftex.def Info: images/DeMONS.png used on input line 23.
-(pdftex.def)             Requested size: 233.02704pt x 225.79315pt.
+<images/DeMONS2.png, id=38, 710.655pt x 690.58pt>
+File: images/DeMONS2.png Graphic file (type png)
+ <use images/DeMONS2.png>
+Package pdftex.def Info: images/DeMONS2.png used on input line 23.
+(pdftex.def)             Requested size: 266.31879pt x 258.79826pt.
 
-[9 <./images/DeMONS.png>]
+[9 <./images/DeMONS2.png>]
 Package epstopdf Info: Source file: <images/ExecTime.eps>
 (epstopdf)                    date: 2018-12-08 05:04:08
 (epstopdf)                    size: 22857 bytes
@@ -468,9 +466,9 @@ File: images/ExecTime-eps-converted-to.pdf Graphic file (type pdf)
 <use images/ExecTime-eps-converted-to.pdf>
 Package pdftex.def Info: images/ExecTime-eps-converted-to.pdf used on input lin
 e 38.
-(pdftex.def)             Requested size: 233.02704pt x 163.11932pt.
-) (./sections/06-conclusion.tex
-[10 <./images/ExecTime-eps-converted-to.pdf>]) (./author.bbl
+(pdftex.def)             Requested size: 266.31879pt x 186.42374pt.
+ [10 <./images/ExecTime-eps-converted-to.pdf>]) (./sections/06-conclusion.tex) 
+(./author.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 22--25
 []\OT1/ptm/m/n/10 Cisco (2018) Vec-tor packet pro-cess-ing. URL
  []
@@ -516,30 +514,30 @@ DOI
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--94
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
 []\OT1/ptm/m/n/10 SWA EG (2014) Vir-tual net-work func-tions ar-chi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--94
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
 \OT1/ptm/m/n/10 tec-ture. URL https://www.etsi.org/deliver/etsi[]gs/NFV-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--94
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
 \OT1/ptm/m/n/10 SWA/001[]099/001/01.01.01[]60/gs[]NFV-SWA001v010101p.pdf, acess
 ed
  []
 
 ) [12] (./author.aux) ) 
 Here is how much of TeX's memory you used:
- 3098 strings out of 493105
- 42950 string characters out of 6137072
- 114415 words of memory out of 5000000
- 6473 multiletter control sequences out of 15000+600000
+ 3095 strings out of 493105
+ 42901 string characters out of 6137072
+ 114298 words of memory out of 5000000
+ 6470 multiletter control sequences out of 15000+600000
  36775 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,8n,28p,1315b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,8n,28p,1315b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.e
 nc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/shar
@@ -547,7 +545,7 @@ e/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on author.pdf (12 pages, 181668 bytes).
+Output written on author.pdf (12 pages, 181804 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
